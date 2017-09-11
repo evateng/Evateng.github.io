@@ -1,6 +1,6 @@
 permalink: /:title
 
-title: BeiYuu.com
-url: http://beiyuu.com
+title: Eva's Blog
+url: https://evateng.github.io
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
+author_info: <a href="https://evateng.github.io/">Eva</a>
